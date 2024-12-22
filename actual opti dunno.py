@@ -2,7 +2,7 @@ import csv
 from queue import Queue
 import time
 import pandas as pd
-
+print('hi')
 def read_entry_v1(file_name):
     """ 
     read_entry takes as input the file of the name as a csv file. It returns a dictionary of type (robot, directions)
